@@ -1,5 +1,4 @@
 title: Introduction to GitHub
-theme: Architect
 description: If you are looking for a quick and fun introduction to GitHub, you've found it. This class will get you started using GitHub in less than an hour.
 template:
   name: github-slideshow
@@ -286,3 +285,4 @@ tags: [
   "Git","GitHub Pages","Branches","Commits","Pull Requests"
 ]
 video: "sz6zfrQpCQg"
+theme: Architect
